@@ -1,0 +1,33 @@
+.signup-container {
+	max-width: 500px;
+	margin: 80px auto;
+	color: black;
+}
+
+.main {
+	padding: 30px 40px;
+	background: var(--dark-color-b);
+}
+
+.main label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+.main input {
+	font-size: 16px;
+	padding: 5px;
+	height: 40px;
+	width: 100%;
+}
+
+
+.main .btn {
+	margin-top: 20px;
+	width: 104%;
+    height: 50px;
+    border: 1px solid rgb(179, 230, 179);
+    background-color:  rgb(179, 230, 179);
+	font-size: large;
+}
+
